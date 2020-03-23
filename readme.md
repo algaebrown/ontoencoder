@@ -22,3 +22,6 @@ Please refer to OntoPrune [https://github.com/algaebrown/ontoPrune] for more inf
 
 # Can I train TopoNet/OntoEncoder on GPU?
 I haven't implement that.
+
+# Dependency
+`environment.yml` should be helpful. [Refer to here how to install the same conda environment](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
